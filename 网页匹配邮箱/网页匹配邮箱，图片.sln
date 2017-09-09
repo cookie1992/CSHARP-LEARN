@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "网页匹配邮箱", "网页匹配邮箱\网页匹配邮箱.csproj", "{69E6D113-2E9E-458E-86E2-D7CD5DA0FEAF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "网页下载图片", "ConsoleApp1\网页下载图片.csproj", "{B5AF1315-17DB-4FB7-919B-7A0B48B6FD1E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{69E6D113-2E9E-458E-86E2-D7CD5DA0FEAF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{69E6D113-2E9E-458E-86E2-D7CD5DA0FEAF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{69E6D113-2E9E-458E-86E2-D7CD5DA0FEAF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{69E6D113-2E9E-458E-86E2-D7CD5DA0FEAF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B5AF1315-17DB-4FB7-919B-7A0B48B6FD1E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B5AF1315-17DB-4FB7-919B-7A0B48B6FD1E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B5AF1315-17DB-4FB7-919B-7A0B48B6FD1E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B5AF1315-17DB-4FB7-919B-7A0B48B6FD1E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6BA7174C-E433-4464-AB25-307903AA7DA2}
+	EndGlobalSection
+EndGlobal
